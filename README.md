@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avni-Tilva
 - 👀 I’m interested in engineering applications sustainable energy, manufacturing engineering, and 3D modelling
-- 🌱 I’m currently learning PLC programming, Kotlin
+- 🌱 I’m currently learning PLC programming, Kotlin for android app development
 - 📫 How to reach me: avni.ca
 
 <!---
